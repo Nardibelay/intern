@@ -28,12 +28,9 @@
 		echo '<marquee><h4 class = "text-danger">'.$f_activity['title'].' - '.$f_activity['description'].'</h4></marquee>';
 	}
 ?>
-	
 	</div>
 	<div class = "container-fluid" id = "content">	
 		<div class = "row" style = "margin-top:-120px;">	
-			
-			
 				<ul class="nav nav-tabs">
 					<li class="active"><a href="#home" data-toggle = "tab"><b>Home</b></a></li>
 					<li><a href="#aboutus" data-toggle = "tab"><b>About Us</b></a></li>
@@ -46,7 +43,6 @@
 						include	'aboutus.php';
 						include	'activities.php';
 					?>
-				
 			</div>
 		</div>
 	</div>

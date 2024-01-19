@@ -27,10 +27,6 @@ $sql = "INSERT INTO registered_users(first_name,last_name,address,city,zip,about
   <head>
     <meta charset="utf-8">
     <title>Create Account</title>
-
- 
- 
-    <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/datepicker.css" rel="stylesheet">
